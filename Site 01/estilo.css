@@ -1,0 +1,111 @@
+
+body {
+  background-image: url("assets/Group 4.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+
+.aaa {
+width: 100%
+
+
+}
+
+div { width: 600px;
+height: 453px;
+background:#D0D0D0;
+position: absolute;
+top: 500px;
+left: 125;
+text-align: center; 
+border-radius: 40px;
+padding: 30px
+}
+.texto {
+position: absolute;
+width: 630px;
+height: 330px;
+left: 1150px;
+top: 600px;
+}
+.rodape {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: -300px;
+width: 100%;
+}
+.texto2 {
+position: absolute;
+width: 601px;
+height: 519px;
+left: 125px;
+top: 1460px;
+}
+.folha2 {
+position: absolute;
+width: 1200px;
+height: 800px;
+left: 700px;
+top: 1387px;
+}
+.quadrado {
+position: absolute;
+width: 671px;
+height: 472px;
+left: 1030px;
+top: 1500px;
+}
+.toalha {
+position: absolute;
+width: 627px;
+height: 424px;
+left: 1050px;
+top: 1522px;
+}
+.folha3 {
+position: absolute;
+width: 1200px;
+height: 800px;
+left: 703px;
+top: 2263px;
+}
+.quadrado2 {
+position: absolute;
+width: 547px;
+height: 432px;
+left: 200px;
+top: 2563px;
+}
+.mapa {
+position: absolute;
+width: 502px;
+height: 392px;
+left: 222px;
+top: 2583px;
+}
+.contato2 {
+position: absolute;
+width: 552px;
+height: 126px;
+left: 1100px;
+top: 2590px;
+}
+.tratamentos {
+position: absolute;
+width: 552px;
+height: 126px;
+left: 1100px;
+top: 2850px;
+}
+
+
+
+
+

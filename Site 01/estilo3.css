@@ -1,0 +1,30 @@
+body {
+  background-image: url("assets/Desktop - 3.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.foto {
+position: absolute;
+left: 1150px;
+top: -60px;
+}
+.texto {
+position: absolute;
+left: 210px;
+top: 100px;
+}
+.foto2 {
+position: absolute;
+left: 150px;
+top: 350px;
+}
+.texto2 {
+position: absolute;
+left: 800px;
+top: 550px;
+}
+.folha {
+position: absolute;
+left: -850px;
+top: -490px;
+}

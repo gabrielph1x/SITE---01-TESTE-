@@ -1,0 +1,46 @@
+body {
+background-image: url("assets/image-from-rawpixel-id-2294180-jpeg 2.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.folha {
+position: absolute;
+left: 1265px;
+top: 0px;
+}
+.texto {
+position: absolute;
+width: 1000px;
+height: 59px;
+left: 100px;
+top: 69px;
+}
+.quadrado {
+position: absolute;
+width: 822px;
+height: 587px;
+left: 100px;
+top: 180px;
+}
+.contato2 {
+position: absolute;
+width: 740px;
+height: 530px;
+left: 140px;
+top: 205px;
+}
+.logo {
+position: absolute;
+left: 122px;
+top: 820px;
+}
+.email {
+position: absolute;
+left: 1000px;
+top: 220px;
+}
+.numero {
+position: absolute;
+left: 1000px;
+top: 500px;
+}
