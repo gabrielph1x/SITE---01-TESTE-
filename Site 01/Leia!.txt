@@ -1,0 +1,4 @@
+Site feito no Colégio.
+
+O site foi feito antes da etapa de aprendizado de tabelas, por isso apresenta essa código obsoleto.
+
